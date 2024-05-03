@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Lavras - MG
 * ✉️  You can contact me at [joseacerbialmeidaneto@hotmail.com](mailto:joseacerbialmeidaneto@hotmail.com)
-* 🧠  I'm learning Data Science and JavaScript
+* 🧠  I'm learning Data Science, JavaScript and Machine Learning
 
 ### Skills
 
