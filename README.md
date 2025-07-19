@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Lavras - MG
 * ✉️  You can contact me at [jose.acerbi@outlook.com](mailto:jose.acerbi@outlook.com)
-* 🧠  I'm learning Data Science and Machine Learning
+  * 🧠  I'm learning Cloud Computing and Cybersecurity
 
 ### Skills
 
